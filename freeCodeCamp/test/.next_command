@@ -32,3 +32,7 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 echo hello terminal
 pwd
 ls --color=auto
+cd selly
+cd /workspace/project
+project
+cd freeCodeCamp
