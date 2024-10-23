@@ -37,3 +37,4 @@ cd /workspace/project
 project
 cd freeCodeCamp
 pwd
+ls --color=auto
