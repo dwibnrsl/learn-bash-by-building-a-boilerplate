@@ -203,3 +203,4 @@ more READ.me
 more READ.md
 more README.md
 cd ..
+ls --color=auto
