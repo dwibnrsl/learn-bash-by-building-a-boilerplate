@@ -144,3 +144,4 @@ dins -name src
 find -name src
 find
 cd client
+mkdir assets
